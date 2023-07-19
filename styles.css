@@ -13,10 +13,21 @@ body {
     color: #FFFFFF;
 }
 
+#NY {
+    display: flex;
+}
+#tokyo {
+    
+}
+
 h1 {
     font-size: 32px;
     margin: 0;
 }
-=======
-/* this is a comment for deletion later */
 
+footer {
+    background-color: #8d99ae;
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
