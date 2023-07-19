@@ -1,0 +1,68 @@
+ 
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+}
+nav {
+    background-color: #5d6574
+    
+}
+nav, a {
+    
+    padding: 5px;
+    font-family: Arial;
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+#the_header {
+    background-color: #8d99ae;
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#NY {
+    display: flex;
+}
+#tokyo {
+    display: flex;
+}
+
+.tokyoskyline{
+    position: relative;
+    left: -20%;
+    width: 500px;
+    height: auto;
+    margin-left: 25%;
+}
+
+.reasons {
+     
+margin-left: -11%;
+margin-right: 10%;
+margin-top: 12%;
+}
+
+h1 {
+    font-size: 32px;
+    margin: 0;
+}
+
+.whytky {
+position: absolute;
+margin-left: -5%;
+margin-top:  3%;
+}
+
+footer {
+    background-color: #8d99ae;
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
