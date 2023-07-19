@@ -34,9 +34,30 @@ a {
     display: flex;
 }
 
+.tokyoskyline{
+    position: relative;
+    left: -20%;
+    width: 500px;
+    height: auto;
+    margin-left: 25%;
+}
+
+.reasons {
+     
+margin-left: -11%;
+margin-right: 10%;
+margin-top: 12%;
+}
+
 h1 {
     font-size: 32px;
     margin: 0;
+}
+
+.whytky {
+position: absolute;
+margin-left: -5%;
+margin-top:  3%;
 }
 
 footer {
