@@ -12,6 +12,13 @@ body {
     color: #FFFFFF;
 }
 
+#NY {
+    display: flex;
+}
+#tokyo {
+    
+}
+
 h1 {
     font-size: 32px;
     margin: 0;
